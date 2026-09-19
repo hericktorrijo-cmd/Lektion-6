@@ -5,4 +5,5 @@
   <Project Path="04 Baklänges/04 Baklänges.csproj" />
   <Project Path="05 Namnlistan/05 Namnlistan.csproj" />
   <Project Path="06 Sökandet efter guld/06 Sökandet efter guld.csproj" Id="ade30ed2-b8b0-4cbc-a685-b9ff7bc8f8ad" />
+  <Project Path="07 Hoppa över dolda filer/07 Hoppa över dolda filer.csproj" Id="31e57d57-34c4-4b2c-8fb7-87fd26a09080" />
 </Solution>
