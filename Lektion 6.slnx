@@ -3,4 +3,5 @@
   <Project Path="02 Inmatningsskyddet/02 Inmatningsskyddet.csproj" />
   <Project Path="03 Räknaren/03 Räknaren.csproj" />
   <Project Path="04 Baklänges/04 Baklänges.csproj" />
+  <Project Path="05 Namnlistan/05 Namnlistan.csproj" />
 </Solution>
