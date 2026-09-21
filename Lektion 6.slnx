@@ -8,4 +8,6 @@
   <Project Path="07 Hoppa över dolda filer/07 Hoppa över dolda filer.csproj" Id="31e57d57-34c4-4b2c-8fb7-87fd26a09080" />
   <Project Path="08 Multiplikationstabellen/08 Multiplikationstabellen.csproj" Id="77cdc0c0-3f58-492e-aeae-e027f937d5cc" />
   <Project Path="09 Menyvalet med nödutgång/09 Menyvalet med nödutgång.csproj" Id="99f4227e-a408-4b35-b9ed-c2092b622814" />
+  <Project Path="10 Textanalysatorn/10 Textanalysatorn.csproj" Id="15cf78b3-2db1-44a2-9d6b-6d6f0842cb4f" />
+  <Project Path="11 Temperaturloggen/11 Temperaturloggen.csproj" Id="723f9495-9536-443c-9e0b-3b635f4f2271" />
 </Solution>
