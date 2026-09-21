@@ -10,4 +10,5 @@
   <Project Path="09 Menyvalet med nödutgång/09 Menyvalet med nödutgång.csproj" Id="99f4227e-a408-4b35-b9ed-c2092b622814" />
   <Project Path="10 Textanalysatorn/10 Textanalysatorn.csproj" Id="15cf78b3-2db1-44a2-9d6b-6d6f0842cb4f" />
   <Project Path="11 Temperaturloggen/11 Temperaturloggen.csproj" Id="723f9495-9536-443c-9e0b-3b635f4f2271" />
+  <Project Path="12 Den robusta sifferinmataren/12 Den robusta sifferinmataren.csproj" Id="2119f25a-b3b5-45b2-a051-e271f1d87e5d" />
 </Solution>
